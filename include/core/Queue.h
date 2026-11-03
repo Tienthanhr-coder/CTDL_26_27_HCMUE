@@ -3,7 +3,7 @@
 
 #include "core/LinkedList.h"
 
-template <typename T>
+template <typename T> 
 class Queue {
 private:
     LinkedList<T> data_;
